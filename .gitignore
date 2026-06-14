@@ -1,0 +1,12 @@
+# Build output
+Debug/
+Release/
+
+# STM32CubeIDE
+*.launch
+
+# VSCode
+.vscode/
+
+# IDE settings
+.settings/
